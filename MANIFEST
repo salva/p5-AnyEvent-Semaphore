@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/AnyEvent-Semaphore.t
+lib/AnyEvent/Semaphore.pm
